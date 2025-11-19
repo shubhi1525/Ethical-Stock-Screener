@@ -12,3 +12,5 @@ A Streamlit application for screening stocks based on:
 - AI-powered analysis for companies not in database
 - Stock price visualization
 
+## Live Demo
+https://ethicalstockscreener-jhzwsxak3da7ylrkggtyba.streamlit.app/
